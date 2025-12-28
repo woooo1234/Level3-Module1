@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="lib/javax.json-1.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/MemoryMatch.jar"/>
+	<classpathentry kind="lib" path="lib/TokenHacker.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
